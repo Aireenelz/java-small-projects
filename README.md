@@ -20,3 +20,6 @@ This repository contains a collection of small applications implemented using Ja
 
 ## Usage:
 To run any of the projects locally, clone this repository to your local machine and open the desired project in your preferred Java IDE.
+
+## Demo
+View examples of the applications by checking the output PNG files provided for each application in the repository. 
